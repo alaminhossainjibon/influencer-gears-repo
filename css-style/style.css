@@ -26,6 +26,11 @@ li {
     padding: 8px;
     background-color: #dddddd;
     text-align: right;
+    border-radius: 10px;
+    margin-left: 7px;
+  }
+  ul li:hover a{
+    background-image: linear-gradient(rgba(248, 117, 183, 0.438), lightyellow);
   }
 /*========================================
 ============products section start=========
