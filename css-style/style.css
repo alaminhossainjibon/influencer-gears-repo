@@ -11,7 +11,9 @@ body{
     font-family: 'Roboto', sans-serif;
     background: #f6efef;
 }
-/*navication start */
+/********************************
+********navication start**********
+**********************************/
 .navication{
     margin-top: 30px;
 }
@@ -27,7 +29,7 @@ li {
     background-color: #dddddd;
     text-align: right;
     border-radius: 10px;
-    margin-left: 7px;
+    margin-left: 20px;
   }
   ul li:hover a{
     background-image: linear-gradient(rgba(248, 117, 183, 0.438), lightyellow);
